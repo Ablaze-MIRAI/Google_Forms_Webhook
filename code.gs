@@ -1,9 +1,9 @@
 //------------CONFIG------------
 const WEBHOOK = "";
-MAX_LENGTH = 300;
-REMAIN_LENGTH = true;
-USER_NAME = "Google Forms";
-COLOR = 11374079;
+const MAX_LENGTH = 300;
+const REMAIN_LENGTH = true;
+const USER_NAME = "Google Forms";
+const COLOR = 11374079;
 //------------------------------
 
 const Form_Event = (e) =>{
