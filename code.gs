@@ -1,5 +1,5 @@
 //------------CONFIG------------
-const WEBHOOK = "https://discord.com/api/webhooks/1558347540988952607/D-9iqw2ktpSdFMZVPhAHPg8FbdFKOPUkc9KnzAn2mqlAsoW-2uikPb_pJBI_J2US0OQU";
+const WEBHOOK = "";
 const MAX_LENGTH = 300;
 const REMAIN_LENGTH = true;
 const USER_NAME = "Google Forms";
